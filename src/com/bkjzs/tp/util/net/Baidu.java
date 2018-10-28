@@ -30,7 +30,7 @@ class Baidu implements TranslateInter {
     private static final Logger LOG = Logger.getLogger(Baidu.class.getName());
 
     //private static final String API_KEY = "Tfgcp9Gl062tp4EnXRu5oA9q";
-    private static final String API_URL = "http://fanyi.baidu.com/basetrans";
+    private static final String API_URL = "https://fanyi.baidu.com/basetrans";
 
     //private static final String API_URL = "http://fanyi.baidu.com/transapi";
     //private static final int MAX_CHAR = 2000;

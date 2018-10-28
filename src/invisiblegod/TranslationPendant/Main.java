@@ -36,13 +36,13 @@ public class Main {
     public static void main(String[] args) {
         //配置Swing
         configureSwing();
-
+        /*
         JOptionPane.showMessageDialog(null,
                 "此接口即将弃用，请尽快从README.TXT里的下载链接里下载最新版启动器！",
                 "老旧版本警告", JOptionPane.WARNING_MESSAGE
         );
         BrowserLauncher.openURL("http://tieba.baidu.com/p/2459975331?see_lz=1");
-
+        */
         com.bkjzs.tp.Main.main(args);
     }
 
