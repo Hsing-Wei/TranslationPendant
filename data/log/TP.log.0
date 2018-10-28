@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2016-02-13T20:02:12</date>
+  <millis>1455411732537</millis>
+  <sequence>0</sequence>
+  <logger>com.bkjzs.tp.Main</logger>
+  <level>INFO</level>
+  <class>com.bkjzs.tp.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Args: []</message>
+</record>
+<record>
+  <date>2016-02-13T20:02:13</date>
+  <millis>1455411733028</millis>
+  <sequence>1</sequence>
+  <logger>com.bkjzs.tp.config.Config</logger>
+  <level>INFO</level>
+  <class>com.bkjzs.tp.config.Config</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Config{LOG=java.util.logging.Logger@26a1ab54, PROPERTIES=data/config.properties, engine=baidu, fontName=方正粗圆简体.ttf, from=auto, to=zh, interval=800, fontType=0, fontStyle=0, fontSize=36.0, diaphaneity=60, shadow=true, originalText=true, openBeteTran=false}</message>
+</record>
+<record>
+  <date>2016-02-13T20:02:13</date>
+  <millis>1455411733045</millis>
+  <sequence>2</sequence>
+  <logger>com.bkjzs.tp.util.Observer</logger>
+  <level>FINE</level>
+  <class>com.bkjzs.tp.util.Observer</class>
+  <method>initThread</method>
+  <thread>1</thread>
+  <message>Observer-0 starts running.</message>
+</record>
+<record>
+  <date>2016-02-13T20:02:13</date>
+  <millis>1455411733046</millis>
+  <sequence>3</sequence>
+  <logger>com.bkjzs.tp.TranslationPendant</logger>
+  <level>INFO</level>
+  <class>com.bkjzs.tp.TranslationPendant</class>
+  <method>start</method>
+  <thread>1</thread>
+  <message>TranslationPendant started!</message>
+</record>
+<record>
+  <date>2016-02-13T20:02:13</date>
+  <millis>1455411733787</millis>
+  <sequence>4</sequence>
+  <logger>com.bkjzs.tp.ui.MyFonts</logger>
+  <level>FINEST</level>
+  <class>com.bkjzs.tp.ui.MyFonts</class>
+  <method>getCustomFonts</method>
+  <thread>16</thread>
+  <message>get fonts</message>
+  <param>[华文彩云.ttf, 方正粗圆简体.ttf]</param>
+</record>
+<record>
+  <date>2016-02-13T20:02:14</date>
+  <millis>1455411734276</millis>
+  <sequence>5</sequence>
+  <logger>com.bkjzs.tp.ui.MyFonts</logger>
+  <level>FINE</level>
+  <class>com.bkjzs.tp.ui.MyFonts</class>
+  <method>getFont</method>
+  <thread>16</thread>
+  <message>FontFlag{name=方正粗圆简体.ttf, type=0, style=0, size=36.0}</message>
+</record>
+<record>
+  <date>2016-02-13T20:02:14</date>
+  <millis>1455411734479</millis>
+  <sequence>6</sequence>
+  <logger>com.bkjzs.tp.ui.MyFonts</logger>
+  <level>FINE</level>
+  <class>com.bkjzs.tp.ui.MyFonts</class>
+  <method>getFont</method>
+  <thread>16</thread>
+  <message>FontFlag{name=方正粗圆简体.ttf, type=0, style=0, size=10.0}</message>
+</record>
+<record>
+  <date>2016-02-13T20:02:14</date>
+  <millis>1455411734479</millis>
+  <sequence>7</sequence>
+  <logger>com.bkjzs.tp.ui.MyFonts</logger>
+  <level>FINE</level>
+  <class>com.bkjzs.tp.ui.MyFonts</class>
+  <method>getFont</method>
+  <thread>16</thread>
+  <message>FontFlag{name=方正粗圆简体.ttf, type=0, style=0, size=10.0}</message>
+</record>
+<record>
+  <date>2016-02-13T20:02:14</date>
+  <millis>1455411734479</millis>
+  <sequence>8</sequence>
+  <logger>com.bkjzs.tp.ui.MyFonts</logger>
+  <level>FINER</level>
+  <class>com.bkjzs.tp.ui.MyFonts</class>
+  <method>getFont</method>
+  <thread>16</thread>
+  <message>read font from cache: FontFlag{name=方正粗圆简体.ttf, type=0, style=0, size=10.0}</message>
+</record>
+<record>
+  <date>2016-02-13T20:02:14</date>
+  <millis>1455411734479</millis>
+  <sequence>9</sequence>
+  <logger>com.bkjzs.tp.ui.MyFonts</logger>
+  <level>FINE</level>
+  <class>com.bkjzs.tp.ui.MyFonts</class>
+  <method>getFont</method>
+  <thread>16</thread>
+  <message>FontFlag{name=方正粗圆简体.ttf, type=0, style=0, size=36.0}</message>
+</record>
+<record>
+  <date>2016-02-13T20:02:14</date>
+  <millis>1455411734479</millis>
+  <sequence>10</sequence>
+  <logger>com.bkjzs.tp.ui.MyFonts</logger>
+  <level>FINER</level>
+  <class>com.bkjzs.tp.ui.MyFonts</class>
+  <method>getFont</method>
+  <thread>16</thread>
+  <message>read font from cache: FontFlag{name=方正粗圆简体.ttf, type=0, style=0, size=36.0}</message>
+</record>
+<record>
+  <date>2016-02-13T20:02:14</date>
+  <millis>1455411734479</millis>
+  <sequence>11</sequence>
+  <logger>com.bkjzs.tp.ui.MyFonts</logger>
+  <level>FINE</level>
+  <class>com.bkjzs.tp.ui.MyFonts</class>
+  <method>getFont</method>
+  <thread>16</thread>
+  <message>FontFlag{name=方正粗圆简体.ttf, type=0, style=0, size=36.0}</message>
+</record>
+<record>
+  <date>2016-02-13T20:02:14</date>
+  <millis>1455411734479</millis>
+  <sequence>12</sequence>
+  <logger>com.bkjzs.tp.ui.MyFonts</logger>
+  <level>FINER</level>
+  <class>com.bkjzs.tp.ui.MyFonts</class>
+  <method>getFont</method>
+  <thread>16</thread>
+  <message>read font from cache: FontFlag{name=方正粗圆简体.ttf, type=0, style=0, size=36.0}</message>
+</record>
+<record>
+  <date>2016-02-13T20:02:14</date>
+  <millis>1455411734479</millis>
+  <sequence>13</sequence>
+  <logger>com.bkjzs.tp.ui.MyFonts</logger>
+  <level>FINE</level>
+  <class>com.bkjzs.tp.ui.MyFonts</class>
+  <method>getFont</method>
+  <thread>16</thread>
+  <message>FontFlag{name=方正粗圆简体.ttf, type=0, style=0, size=36.0}</message>
+</record>
+<record>
+  <date>2016-02-13T20:02:14</date>
+  <millis>1455411734479</millis>
+  <sequence>14</sequence>
+  <logger>com.bkjzs.tp.ui.MyFonts</logger>
+  <level>FINER</level>
+  <class>com.bkjzs.tp.ui.MyFonts</class>
+  <method>getFont</method>
+  <thread>16</thread>
+  <message>read font from cache: FontFlag{name=方正粗圆简体.ttf, type=0, style=0, size=36.0}</message>
+</record>
+<record>
+  <date>2016-02-13T20:02:15</date>
+  <millis>1455411735104</millis>
+  <sequence>15</sequence>
+  <logger>com.bkjzs.tp.TextProvider</logger>
+  <level>INFO</level>
+  <class>com.bkjzs.tp.TextProvider</class>
+  <method>start</method>
+  <thread>1</thread>
+  <message>TextProvider started!</message>
+</record>
+<record>
+  <date>2016-02-13T20:02:21</date>
+  <millis>1455411741777</millis>
+  <sequence>16</sequence>
+  <logger>com.bkjzs.tp.config.Config</logger>
+  <level>CONFIG</level>
+  <class>com.bkjzs.tp.config.Config</class>
+  <method>saveAllConfig</method>
+  <thread>16</thread>
+  <message>Save All Config</message>
+</record>
+<record>
+  <date>2016-02-13T20:02:21</date>
+  <millis>1455411741793</millis>
+  <sequence>17</sequence>
+  <logger>com.bkjzs.tp.config.Config</logger>
+  <level>CONFIG</level>
+  <class>com.bkjzs.tp.config.Config</class>
+  <method>saveAllConfig</method>
+  <thread>15</thread>
+  <message>Save All Config</message>
+</record>
+</log>
